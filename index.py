@@ -1,10 +1,4 @@
 #Healthy programmer
-#9am-5pm
-
-# water - water.mp3 (3.5 litres) - Drank - log-Every 40 minutes
-# Eyes- eyes.mp3 - every 30 min - ExDone - log
-# physical activity- physical.mp3 - every 45 min -Exdone-log
-
 # Pygame module to play audio from pygame import mixer
 from pygame import mixer
 from datetime import datetime
